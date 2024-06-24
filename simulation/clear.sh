@@ -1,0 +1,1 @@
+sudo find /usr/lib/ -name 'libns3.18*' -exec rm -f {} \;

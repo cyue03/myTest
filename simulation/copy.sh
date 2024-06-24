@@ -1,0 +1,1 @@
+sudo cp build/libns3.18*.so /usr/lib/
