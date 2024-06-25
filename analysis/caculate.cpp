@@ -13,7 +13,7 @@
 
 using namespace std;
 
-string trace_file="/home/cyue/Desktop/workspace/High-Precision-Congestion-Control/simulation/mix/mix_test.tr";
+string trace_file="/content/myTest/simulation/mix/mix_test.tr";
 string file_name="throughput.txt";
 uint16_t node=2;
 
